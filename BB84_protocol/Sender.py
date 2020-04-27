@@ -148,7 +148,8 @@ def main():
 		
 		#log keys 
 		while True:
-			alic=BB84_Sender(cqc_sender=Alice,receiver="Bob",hacker="Eve")
+			#alic=BB84_Sender(cqc_sender=Alice,receiver="Bob",hacker="Eve")
+			alic=BB84_Sender(cqc_sender=Alice,receiver="Bob")
 			key=alic.BB84_key()
 		
 			msq=input('Alice ->')
