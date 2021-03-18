@@ -23,6 +23,6 @@ http://www.simulaqron.org/
 ### How to run this app?
 ###### On linux :
 
-* 'run.sh' :Execute Alice and Bob without Eavesdropping
-* 'run+Eve.sh' :Execute Eve's attack 
+* `run.sh` :Execute Alice and Bob without Eavesdropping
+* `run+Eve.sh` :Execute Eve's attack 
 
