@@ -1,7 +1,7 @@
 
 # Project Report :
 * This project is submitted as my end of year project at Enet'com, University of Sfax,Tunisia
-* ![Click here](https://www.researchgate.net/publication/344133613_Implementation_of_a_peer_to_peer_quantum_encrypted_chat_application_using_BB84_protocol_and_OTP_encryption)
+* ![Report (Researchgate)](https://www.researchgate.net/publication/344133613_Implementation_of_a_peer_to_peer_quantum_encrypted_chat_application_using_BB84_protocol_and_OTP_encryption)
 # BB84 protocol QKD :
 
 ![](https://github.com/FerjaniMY/BB84_protocol_v1/blob/master/images/F1.png)
