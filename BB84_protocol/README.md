@@ -1,3 +1,6 @@
+
+# Project Report :
+![Click here](https://www.researchgate.net/publication/344133613_Implementation_of_a_peer_to_peer_quantum_encrypted_chat_application_using_BB84_protocol_and_OTP_encryption)
 # BB84 protocol QKD :
 
 ![](https://github.com/FerjaniMY/BB84_protocol_v1/blob/master/images/F1.png)
@@ -7,9 +10,8 @@
 * Generate raw key 
 * Sift the key 
 * Check the noise level
-### Next Implementations (features) :
+### Next Steps (features) :
 * Reduce and check the noise level (Reconciliation)
-* Reduce Eve’s information on the new key (privacy amplification)
 * Authenticate the messages on the classical channel
 
 
