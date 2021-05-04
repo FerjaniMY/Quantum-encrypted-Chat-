@@ -23,6 +23,11 @@ http://www.simulaqron.org/
 ### How to run this app?
 ###### On linux :
 
+## First Method
 * `run.sh` :Execute Alice and Bob without Eavesdropping
 * `run+Eve.sh` :Execute Eve's attack 
 
+## Second Method
+Open two terminals and run these two files:
+* `python sender.py`
+* `python receiver.py`
